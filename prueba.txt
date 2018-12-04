@@ -1,0 +1,3 @@
+Este es un fichero de prueba
+La versión inicial tiene tres líneas
+Esta es la última línea
