@@ -1,3 +1,4 @@
 Este es un fichero de prueba
-La versión inicial tiene tres líneas
-Esta es la última línea
+La segunda versión tiene cuatro líneas
+Esta es una línea añadida en la segunda versión
+Esta es la última línea 4
